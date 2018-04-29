@@ -1941,7 +1941,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/riva/proprietary/vendor/lib64/libmmsw_math.so:system/vendor/lib64/libmmsw_math.so \
     vendor/xiaomi/riva/proprietary/vendor/lib64/libmmsw_opencl.so:system/vendor/lib64/libmmsw_opencl.so \
     vendor/xiaomi/riva/proprietary/vendor/lib64/libmmsw_platform.so:system/vendor/lib64/libmmsw_platform.so \
-    vendor/xiaomi/riva/proprietary/vendor/lib64/libmorpho_panorama_gp.so:system/vendor/lib64/libmorpho_panorama_gp.so
+    vendor/xiaomi/riva/proprietary/vendor/lib64/libmorpho_panorama_gp.so:system/vendor/lib64/libmorpho_panorama_gp.so \
+    vendor/xiaomi/riva/proprietary/lib/hw/lights.msm8937.so:system/lib/hw/lights.msm8937.so \
+    vendor/xiaomi/riva/proprietary/lib64/hw/lights.msm8937.so:system/lib64/hw/lights.msm8937.so
 
 PRODUCT_PACKAGES += \
     libts_detected_face_hal \
