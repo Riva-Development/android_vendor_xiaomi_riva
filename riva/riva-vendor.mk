@@ -2528,6 +2528,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/riva/proprietary/vendor/radio/qcril_database/qcril.db:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/qcril.db
 
 PRODUCT_PACKAGES += \
+    vendor.display.color@1.0 \
+    vendor.qti.hardware.iop@1.0 \
+    libgpustats \
     libsdm-disp-vndapis \
     libantradio \
     vendor.qti.hardware.fm@1.0 \
