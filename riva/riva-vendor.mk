@@ -2640,4 +2640,5 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.sensorscalibrate-V1.0-java \
     WfdService \
     WfdCommon \
-    Launcher3QuickStep
+    Launcher3QuickStep \
+    ParanoidPapers
