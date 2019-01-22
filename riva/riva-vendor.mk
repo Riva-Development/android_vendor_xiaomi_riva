@@ -2641,4 +2641,5 @@ PRODUCT_PACKAGES += \
     WfdService \
     WfdCommon \
     Launcher3QuickStep \
-    ParanoidPapers
+    ParanoidPapers \
+    FileManager
